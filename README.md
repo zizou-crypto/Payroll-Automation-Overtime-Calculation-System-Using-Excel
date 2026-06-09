@@ -36,3 +36,10 @@ Payroll Input Sheet
 
 | column | Description |
 | ------ | ---------- |
+| Employee ID	| Unique employee identifier |
+| Employee Name |	Employee full name |
+| Rate Type	| Employee pay category |
+| Regular Hours |	Standard hours worked |
+| Overtime Hours |	Extra hours worked |
+| Rate 1	| Standard hourly rate |
+| Rate 2	| Alternative hourly rate |
