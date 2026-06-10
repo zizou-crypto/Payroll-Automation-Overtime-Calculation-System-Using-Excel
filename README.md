@@ -43,3 +43,36 @@ Payroll Input Sheet
 | Overtime Hours |	Extra hours worked |
 | Rate 1	| Standard hourly rate |
 | Rate 2	| Alternative hourly rate |
+
+## Summary Dashboard
+
+The Summary Sheet provides management insight into payroll costs.
+
+Metrics
+| KPI	|Description |
+| ---- | ----- |
+| Total Employees |	Number of employees processed |
+| Total Gross Pay	| Payroll before deductions |
+| Total Tax |	Total tax liability |
+| Total Pension	| Total pension deductions |
+| Total Net Pay |	Actual take-home pay |
+| Total Overtime | Cost	Cost of overtime |
+
+## Key Business Insights
+
+The payroll dashboard enables management to:
+
+Workforce Cost Monitoring
+Track overall payroll expenditure.
+
+Overtime Monitoring
+Identify departments generating excessive overtime costs.
+
+Budget Planning
+Forecast payroll expenses accurately.
+
+Compliance Reporting
+Monitor tax and pension deductions.
+
+Payroll Transparency
+Reduce disputes through standardized calculations.
